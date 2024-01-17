@@ -1,0 +1,4 @@
+<launch>
+    <node pkg="package1" type="magnitude_server.py" name="magnitude_server" output="screen"></node>
+    <node pkg="package1" type="magnitude_client.py" name="magnitude_client" output="screen"></node>
+</launch>
