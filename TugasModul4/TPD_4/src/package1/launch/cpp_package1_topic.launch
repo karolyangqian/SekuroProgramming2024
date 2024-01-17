@@ -1,4 +1,0 @@
-<launch>
-    <node pkg="package1" type="kehadiran_publisher" name="kehadiran_publisher" output="screen"></node>
-    <node pkg="package1" type="kehadiran_subscriber" name="kehadiran_subscriber" output="screen"></node>
-</launch>

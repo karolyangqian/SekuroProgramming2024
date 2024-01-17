@@ -1,2 +1,0 @@
-package1
--DCATKIN_DEVEL_PREFIX=/home/karol/TPD_4/devel -DCMAKE_INSTALL_PREFIX=/home/karol/TPD_4/install -G Unix Makefiles

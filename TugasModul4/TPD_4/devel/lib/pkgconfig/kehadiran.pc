@@ -1,8 +1,0 @@
-prefix=/home/karol/TPD_4/devel
-
-Name: kehadiran
-Description: Description of kehadiran
-Version: 0.0.0
-Cflags: -I/home/karol/TPD_4/devel/include
-Libs: -L${prefix}/lib 
-Requires: roscpp rospy std_msgs message_runtime
